@@ -5,3 +5,4 @@ joblib
 scikit-learn
 altair>=5.0.0
 fpdf
+google-generativeai
